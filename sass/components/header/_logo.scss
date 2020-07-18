@@ -5,8 +5,8 @@
 
 .logo {
   font: bold 26px/31px $font-secondary, serif;
-  &hover,
-  &focus {
+  &:hover,
+  &:focus {
     text-decoration: underline $link-text-color;
   }
 }
